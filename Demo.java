@@ -1,7 +1,6 @@
-class  
-{
+public class Demo {
 	public static void main(String[] args) 
 	{
-		System.out.println("www.mldn.cn");
+		System.out.println("Current Date" + new java.util.Date());
 	}
 }
