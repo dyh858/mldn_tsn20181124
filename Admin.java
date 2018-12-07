@@ -5,4 +5,5 @@ public class Admin{
 	private String password ;
 	private Integer flag ;
 	private String name ;
+	private Date lastLogin ;
 }
